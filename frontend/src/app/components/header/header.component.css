@@ -1,0 +1,21 @@
+
+mat-toolbar {
+    display: flex;
+    justify-content: space-between;
+    background-color:slategrey;
+  }
+
+  .home-link {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .left-content {
+    display: flex;
+    align-items: center;
+  }
+  
+  .right-content {
+    display: flex;
+    align-items: center;
+  }
