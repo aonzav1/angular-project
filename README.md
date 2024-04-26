@@ -1,2 +1,2 @@
 # angular-project
-Test angular project + expressJS for practice
+Test angular project + golang for practice
